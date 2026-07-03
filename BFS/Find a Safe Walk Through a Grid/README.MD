@@ -33,10 +33,8 @@ O(m × n)
 
 ## Space Complexity 
 
-```text
 O(m × n)
 
 Extra space is used for:
-
 queue
 health tracking matrix
