@@ -51,11 +51,4 @@ O(1)
 
 ---
 
-## Topics
 
-* Strings
-* Two Pointers
-* Expand Around Center
-
-```
-```
