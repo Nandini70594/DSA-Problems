@@ -115,11 +115,4 @@ Overall:
 
 ---
 
-## Topics
 
-- Graph
-- Minimum Spanning Tree (MST)
-- Prim's Algorithm
-- Greedy
-- Priority Queue (Min Heap)
-- Manhattan Distance
