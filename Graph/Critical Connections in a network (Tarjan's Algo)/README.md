@@ -219,12 +219,4 @@ Overall:
 O(V + E)
 ```
 
----
 
-## Topics
-
-- Graph
-- Depth First Search (DFS)
-- Tarjan's Algorithm
-- Bridges in Graph
-- Low Link Values
